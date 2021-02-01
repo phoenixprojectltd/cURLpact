@@ -1,4 +1,8 @@
 import os
+import time
+
+print("Welcome to cURLpact!")
+time.sleep(1.5)
 
 loop = True
 while True:
