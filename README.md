@@ -1,5 +1,5 @@
 # cURLpact!
-### The open-source compact cURL wrapper
+### The open-source compact cURL interface
 
 ## What is cURLpact?
 
