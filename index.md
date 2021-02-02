@@ -1,8 +1,4 @@
-## cURLpact
-
-The open-source compact cURL interface
-
-### What is cURLpact?
+# What is cURLpact?
 
 Well, cURLpact is a free-and-open-source lightweight cURL interface written in Python.
 It is almost dependency-free, only requiring Python 3 and cURL, which is built in to Windows 10 versions =>1803.
